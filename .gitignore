@@ -1,0 +1,9 @@
+/fashion_small
+/myvenv/
+__pycache__/
+*.pyc
+venv/
+
+# Evaluation generated artifacts
+evaluation/*_embeddings.pkl
+evaluation/*_img_files.pkl
